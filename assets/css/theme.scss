@@ -294,11 +294,6 @@ img, img:hover {
         width:100%;
         object-position:top;
     }
-    .img-thumb-alt {
-        object-fit:cover;
-        width:100%;
-        object-position:top;
-    }
 }
 .firstpage {
     .blog-grid-item:nth-child(1) {
@@ -319,11 +314,6 @@ img, img:hover {
             width:100%;
             object-position:top;
         }
-        .img-thumb-alt {
-            object-fit:cover;
-            width:100%;
-            object-position:top;
-        }
     }
 
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
@@ -333,11 +323,6 @@ img, img:hover {
         .img-thumb {
             object-fit:cover;
             height:160px;
-            width:100%;
-            object-position:top;
-        }
-        .img-thumb-alt {
-            object-fit:cover;
             width:100%;
             object-position:top;
         }
