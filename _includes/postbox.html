@@ -18,7 +18,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} {% if post.auto-redirect == true %} &nbsp; <i class="fa fa-external-link text-muted"></i>{% endif %}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.auto-redirect == true %}&nbsp;<i class="fa fa-external-link text-muted"></i>{% endif %}</a>
                 {% if post.rating %}
                 <div class="mb-2 mt-2 font-weight-normal">
                 {% include star_rating_postbox.html %}
