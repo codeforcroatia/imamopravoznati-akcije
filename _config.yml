@@ -7,9 +7,11 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://codeforcroatia.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=2f0ec27e18'
 include: ["_pages"]
 permalink: /:title/
+
+# Contact us form (Formspree.io)
 email: wowthemesnet@gmail.com
 
 # Authors
@@ -24,7 +26,7 @@ authors:
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
-    display_name: John    
+    display_name: John
     avatar: 'assets/images/avatar.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
@@ -39,7 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -47,11 +49,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown
