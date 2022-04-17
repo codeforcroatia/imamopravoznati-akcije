@@ -2,12 +2,9 @@
   <div id='discourse-comments'></div>
     <script type="text/javascript">
     window.DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
-    {% if post.discourseTopicId %}
-                       topicId: {{ post.discourseTopicId }},
-    {% else %}
-                       discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}',
-    {% endif %}
-                       discourseReferrerPolicy: 'strict-origin-when-cross-origin' };
+                              topicId: 859,
+                              discourseReferrerPolicy: 'strict-origin-when-cross-origin' };
+    
 
     (function() {
       var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
