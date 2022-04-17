@@ -16,6 +16,10 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+{% if page.auto-redirect == true %}
+<meta http-equiv="Refresh" content="0; url={{ page.external-url }}" />
+{% endif %}
+
 </head>
 
 {% if jekyll.environment == 'production' %}
