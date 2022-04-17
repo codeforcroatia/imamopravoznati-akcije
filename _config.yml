@@ -19,18 +19,18 @@ authors:
     name: Code for Croatia
     display_name: Code for Croatia
     avatar: 'assets/images/avatar-sal.png'
-    email: TBD
+    email:
     web: https://codeforcroatia.org
     twitter: https://twitter.com/codeforcroatia
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "Promičemo otvorene tehnologije u službi građana te povećanje transparentnosti javne uprave u svrhu poboljšanja civilnog društva."
   gong:
     name: Gong
     display_name: Gong
     avatar: 'assets/images/avatar.png'
-    email: TBD
+    email: 
     web: https://gong.hr
     twitter: https://twitter.com/gong_hr
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "Gong je megafon demokracije: ometa korupciju, upozorava na političke ugroze i gradi ravnopravno građanstvo."
 
 # Plugins
 plugins:
