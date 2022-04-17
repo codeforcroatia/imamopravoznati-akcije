@@ -3,7 +3,7 @@
     <script type="text/javascript">
     DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
     {% if post.discourseTopicId %}
-                       topicId: 12345 };
+                       topicId: {{ post.discourseTopicId }} };
     {% else %}
                        discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}' };
     {% endif %}
