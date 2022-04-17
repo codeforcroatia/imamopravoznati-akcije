@@ -1,9 +1,8 @@
 <section class="discourse">
   <div id='discourse-comments'></div>
 
-  <p>URL test: {{ site.baseurl }}{{ post.url }}</p>
-  <p>param-1: {{ site.baseurl }}</p>
-  <p>param-2: {{ post.url }}</p>
+  <p>post_url: {% post_url %}</p>
+  <p>link: {% link %}</p>
 
   {% if page.discourseTopicId %}
     <script type="text/javascript">
