@@ -1,21 +1,10 @@
 <section class="discourse">
   <div id='discourse-comments'></div>
 
-{% if post.discourseTopicId %}
-<p>post.discourseTopicId is true: {{post.discourseTopicId}}</p>
-{% else %}
-<p>post.discourseTopicId is false: {{post.discourseTopicId}}</p>
-{% endif %}
-
-{% if page.discourseTopicId %}
-<p>page.discourseTopicId is true: {{page.discourseTopicId}}</p>
-{% else %}
-<p>page.discourseTopicId is false: {{page.discourseTopicId}}</p>
-{% endif %}
-
+  {% if page.discourseTopicId %}
     <script type="text/javascript">
     window.DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
-                              topicId: 25,
+                              topicId: {{page.discourseTopicId}},
                               discourseReferrerPolicy: 'strict-origin-when-cross-origin' };
 
     (function() {
@@ -24,6 +13,19 @@
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
     </script>
+  {% else %}
+    <script type="text/javascript">
+    window.DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
+                              discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}',
+                              discourseReferrerPolicy: 'strict-origin-when-cross-origin' };
+
+    (function() {
+      var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+      d.src = window.DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+    </script>
+  {% endif %}
 
     <noscript>Omogućite JavaScript za pregled <a href="https://codeforcroatia.org/?ref_noscript">komentara koje pokreće Discourse.</a></noscript>
     <a href="https://codeforcroatia.org" class="dsq-brlink">komentare pruža <span class="logo-discourse">Discourse</span></a>
