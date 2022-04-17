@@ -14,7 +14,7 @@ Sve što radimo je javno, i možete vidjeti na internetskoj stranici <a target="
 
 A minimalist Jekyll theme built with Bootstrap 4, for blogging purposes. Trendy, modern design, for people who love the beauty of simplicity.
 
-“Memoirs” is a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites
+_“Memoirs” is a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites_
 
 ### Features
 
@@ -151,3 +151,26 @@ toc: true
 
 #### Editing stylesheet
 You’ll only work with a single file to edit/add theme style: `assets/css/theme.scss`.
+
+## Theme Custom Features by Code for Croatia
+
+YAML additional front matter options:
+* automatically redirect post to external url - `auto-redirect: false` or `auto-redirect: true`
+* external url (will be used for auto redirection or show as button on post) - `external-url: https://imamopravoznati.org`
+* custom external url button (call-to-action button on post) - `external-button-text: "Idi na stranicu kampanje`
+
+#### YAML Post Custom Example
+```
+---
+layout: post
+title:  "We all wait for summer"
+author: john
+categories: [ Lifestyle, Travel ]
+tags: [ France ]
+image: assets/images/5.jpg
+description: "Something about this post here"
+auto-redirect: false
+external-url: https://imamopravoznati.org
+external-button-text:
+---
+```
