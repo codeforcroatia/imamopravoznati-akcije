@@ -157,9 +157,9 @@ You’ll only work with a single file to edit/add theme style: `assets/css/theme
 YAML additional front matter options:
 * automatically redirect post to external url - `auto-redirect: false` or `auto-redirect: true`
 * external url (will be used for auto redirection or show as button on post) - `external-url: https://imamopravoznati.org`
-* custom external url button (call-to-action button on post) - `external-button-text: "Idi na stranicu kampanje`
+* custom external url button (call-to-action button on post) - `external-button-text: "Idi na stranicu kampanje"`
 
-#### YAML Post Custom Example
+#### YAML Post Custom Example - with External URL / Redirection
 ```
 ---
 layout: post
@@ -171,6 +171,31 @@ image: assets/images/5.jpg
 description: "Something about this post here"
 auto-redirect: false
 external-url: https://imamopravoznati.org
-external-button-text:
+external-button-text: "Idi na stranicu kampanje"
+---
+```
+
+#### Discourse comments
+Enable this option by editing `_config.yml`.
+```
+## Discourse (enabled when it's set to true; disable if it's set to false; enter Discourse domain in URL with trailing slash "/")
+discourse: true
+discourse-url: 'https://codeforcroatia.org/'
+```
+
+#### YAML Post Custom Example - with Discourse topicID
+```
+---
+layout: post
+title:  "We all wait for summer"
+author: john
+categories: [ Lifestyle ]
+tags: [ France, Europe ]
+image: assets/images/5.jpg
+description: "Something about this post here"
+auto-redirect: false
+external-url: https://imamopravoznati.org
+external-button-text: "Idi na stranicu kampanje"
+discourseTopicId: 859
 ---
 ```

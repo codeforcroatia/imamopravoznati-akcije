@@ -6,9 +6,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
-#disqus: ''
-discourse: true
-discourse-url: 'https://codeforcroatia.org/'
 mailchimp-list: 'https://codeforcroatia.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=2f0ec27e18'
 include: ["_pages"]
 permalink: /:title/
@@ -63,7 +60,14 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
+# Comments
 
+## Disqus (uncomment below and add disqus id)
+#disqus: ''
+
+## Discourse (enabled when it's set to true; disable if it's set to false; enter Discourse domain in URL with trailing slash "/")
+discourse: true
+discourse-url: 'https://codeforcroatia.org/'
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
