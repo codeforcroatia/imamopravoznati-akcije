@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proaktivna objava troškova putovanja članova Vlade RH"
-author: schlossy
+author: cfc
 categories: [ Putovanje ]
 tags: [ putni troskovi, vlada, ministar, ministrica ]
 image: assets/images/putni-troskovi-clanova-vlade/putni-troskovi-2017-1920x1920.png
@@ -12,12 +12,14 @@ external-button-text: "Idi na stranicu kampanje"
 discourseTopicId: 859
 ---
 
+Troškovi službenih putovanja hrvatskih ministara nisu do sada nikada bili javno objavljivani premda građani imaju pravo znati kako se troši novac iz državnog proračuna.
+
+Do nedavno, troškovi službenih putovanja hrvatskih ministara nisu bili javni premda građani imaju pravo znati kako se troši novac iz državnog proračuna.
+
 ## Na što troše?
 
 ### IMATE PRAVO ZNATI!
 ### CILJ NAŠE KAMPANJE JE UČINITI TROŠKOVE SLUŽBENIH PUTOVANJA MINISTARA TRANSPARENTNIM
-
-Do nedavno, troškovi službenih putovanja hrvatskih ministara nisu bili javni premda građani imaju pravo znati kako se troši novac iz državnog proračuna.
 
 Preko portala Imamo pravo znati možete tražiti pristup tim informacijama!
 

@@ -15,21 +15,21 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  cfc:
+    name: Code for Croatia
+    display_name: Code for Croatia
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: TBD
+    web: https://codeforcroatia.org
+    twitter: https://twitter.com/codeforcroatia
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+  gong:
+    name: Gong
+    display_name: Gong
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: TBD
+    web: https://gong.hr
+    twitter: https://twitter.com/gong_hr
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
