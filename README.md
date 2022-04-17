@@ -160,6 +160,9 @@ YAML additional front matter options:
 * custom external url button (call-to-action button on post) - `external-button-text: "Idi na stranicu kampanje"`
 
 #### YAML Post Custom Example - with External URL / Redirection
+Add `auto-redirect: true` for automatic redirection on your post YAML.
+Add `external-url: https://...` to indicate url for redirection or call-to-action button on your post YAML.
+Add `external-button-text: "..."` to indicate custom text to display in call-to-action button on your post YAML, or leave empty to use default text "Idi na internetsku stranicu".
 ```
 ---
 layout: post
@@ -184,6 +187,7 @@ discourse-url: 'https://codeforcroatia.org/'
 ```
 
 #### YAML Post Custom Example - with Discourse topicID
+Add `discourseTopicId: ####` on your post YAML.
 ```
 ---
 layout: post
