@@ -5,7 +5,7 @@ description: "ImamoPravoZnati.org akcije i kampanje"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-47341762-8
+google_analytics: 'UA-47341762-8'
 mailchimp-list: 'https://open.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=a9a7e0f3d5'
 include: ["_pages"]
 permalink: /:title/
