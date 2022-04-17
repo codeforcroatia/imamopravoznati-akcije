@@ -15,9 +15,9 @@
                 {% else %}
                     <!-- In case no post image, show default one: -->
                     {% if site.lazyimages == "enabled" %}
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{{ site.baseurl }}/assets/images/imamopravoznati-opengraph.png" alt="{{ post.title }}">
+                        <img class="img-thumb-alt lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{{ site.baseurl }}/assets/images/imamopravoznati-opengraph.png" alt="{{ post.title }}">
                     {% else %}
-                        <img class="img-thumb" src="{{ site.baseurl }}/assets/images/imamopravoznati-opengraph.png" alt="{{ post.title }}">
+                        <img class="img-thumb-alt" src="{{ site.baseurl }}/assets/images/imamopravoznati-opengraph.png" alt="{{ post.title }}">
                     {% endif %}
                 {% endif %}
             </a>
