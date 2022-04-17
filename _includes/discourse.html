@@ -3,10 +3,11 @@
     <script type="text/javascript">
     DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
     {% if post.discourseTopicId %}
-                       topicId: {{ post.discourseTopicId }} };
+                       topicId: {{ post.discourseTopicId }},
     {% else %}
-                       discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}' };
+                       discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}',
     {% endif %}
+                       discourseReferrerPolicy: 'strict-origin-when-cross-origin'};
 
     (function() {
       var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
