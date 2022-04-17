@@ -2,7 +2,11 @@
   <div id='discourse-comments'></div>
     <script type="text/javascript">
     DiscourseEmbed = { discourseUrl: 'https://codeforcroatia.org/',
+    {% if post.discourseTopicId %}
+                       topicId: 12345 };
+    {% else %}
                        discourseEmbedUrl: '{{ site.baseurl }}{{ post.url }}' };
+    {% endif %}
 
     (function() {
       var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
