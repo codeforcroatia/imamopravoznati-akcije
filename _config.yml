@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: ''
+#disqus: ''
 discourse: true
 mailchimp-list: 'https://codeforcroatia.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=2f0ec27e18'
 include: ["_pages"]
