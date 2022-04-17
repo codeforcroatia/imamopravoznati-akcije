@@ -3,7 +3,7 @@ layout: page
 title: "O ImamoPravoZnati.org akcijama i kampanjama"
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/screenshot-imamopravoznati-org.jpg
 imageshadow: true
 ---
 
