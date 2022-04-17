@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
-mailchimp-list: 'https://codeforcroatia.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=2f0ec27e18'
+mailchimp-list: 'https://open.us3.list-manage.com/subscribe/post?u=6fda5cd904a423904e039bb6e&amp;id=a9a7e0f3d5'
 include: ["_pages"]
 permalink: /:title/
 
@@ -27,7 +27,7 @@ authors:
     name: Gong
     display_name: Gong
     avatar: 'assets/images/avatar.png'
-    email: 
+    email:
     web: https://gong.hr
     twitter: https://twitter.com/gong_hr
     description: "Gong je megafon demokracije: ometa korupciju, upozorava na političke ugroze i gradi ravnopravno građanstvo."
