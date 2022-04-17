@@ -5,7 +5,7 @@ author: cfc
 categories: [ Registri ]
 tags: [ skup podataka, ponovna upotreba ]
 image:
-description: "Provjerimo koliko je stvarno otvoreno skupova podataka."
+description: "Zakon o pravu na pristup informacijama zahtijeva da tijela objavljuju svoje javne registre u obliku za ponovnu uporabu - provjeri koliko je skupova podataka zaista otvoreno!"
 auto-redirect: false
 external-url: http://dev.codeforcroatia.org/open-register-status/
 external-button-text: "Idi na stranicu kampanje"
