@@ -2,7 +2,7 @@
 layout: post
 title:  "Prioritetni skupovi podataka"
 author: cfc
-categories: [ Registri ]
+categories: [ Registar ]
 tags: [ skup podataka, ponovna upotreba ]
 image:
 description: "Zakon o pravu na pristup informacijama zahtijeva da tijela objavljuju svoje javne registre u obliku za ponovnu uporabu - provjeri koliko je skupova podataka zaista otvoreno!"
