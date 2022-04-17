@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ImamoPravoZnati.org akcije i kampanje"
+title: "O ImamoPravoZnati.org akcijama i kampanjama"
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
