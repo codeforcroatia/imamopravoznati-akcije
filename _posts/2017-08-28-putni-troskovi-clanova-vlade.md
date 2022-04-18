@@ -7,8 +7,8 @@ tags: [ putni troskovi, vlada, ministar, ministrica ]
 image: assets/images/putni-troskovi-clanova-vlade/putni-troskovi-2017-1920x1920.png
 description: "Troškovi službenih putovanja hrvatskih ministara nisu do sada nikada bili javno objavljivani premda građani imaju pravo znati kako se troši novac iz državnog proračuna."
 auto-redirect: false
-external-url: http://putni-troskovi.codeforcroatia.org
-external-button-text: "Idi na stranicu kampanje"
+external-url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTZaj_VY6v5afcffbYjI_467qKBfgUv868rcVwaAGTKuuRALOIItR2JMyuTW4paboxAnX6N4bX3VhOh/pubhtml?gid=829997552&single=true'
+external-button-text: "Pogledaj nadzornu ploču kampanje"
 discourseTopicId: 859
 ---
 
