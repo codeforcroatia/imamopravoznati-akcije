@@ -22,7 +22,7 @@ Otvori link s popisom skupova podataka: [Status otvaranja skupova podataka u RH]
 
 Zatim:
 
-I. korak →  klikni tipku da preuzmeš brigu o pojedinom zahtjevu za otvaranje nekog registra. Možeš se prijaviti na više od jednog zadatka. Zatim će ti netko iz tima poslati email s uputama - u međuvremenu, upoznaj se detaljnije o otvaranju javnih podataka: imamo [detaljni vodič](https://imamopravoznati.org/help/requesting) koji će ti pomoći a tu je i [prijateljska zajednica na Diskurs forumu](https://codeforcroatia.org) koja će rado razgovarati s tobom i pomoći savjetom kada je potrebno. Možeš pogledati koje skupve podatka su drugi žele da se objave u otvorenom obliku na postu [Prioritetni skupovi podataka](https://codeforcroatia.org/t/prioritetni-skupovi-podataka-za-data-gov-hr/22).
+I. korak →  klikni tipku da preuzmeš brigu o pojedinom zahtjevu za otvaranje nekog registra.
 
 II. korak →  počni slati zahtjeve za pristup informacijama!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proaktivna objava troškova putovanja članova Vlade RH"
+title:  "Proaktivna objava troškova putovanja članova Vlade RH 2011-2016. godina"
 author: cfc
 categories: [ Putovanje ]
 tags: [ putni troskovi, vlada, ministar, ministrica ]
