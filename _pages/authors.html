@@ -26,7 +26,7 @@ comments: false
                     {% endif %}
 
                     {% if author[1].email %}
-                        <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope"></i></a>
+                        <a class="d-inline-block mx-1 text-dark" href="{% if author[1].email contains "@" %}mailto:{{ author[1].email }}{% else %}{{ author[1].email }}{% endif %}"><i class="fa fa-envelope"></i></a>
                     {% endif %}
 
                 </p>
