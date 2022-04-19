@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Prioritetni skupovi podataka"
+title:  "Otvaranje zatvorenih registara u 2015. godini"
 author: cfc
 categories: [ Registar ]
 tags: [ skup podataka, ponovna upotreba ]
 image:
 description: "Zakon o pravu na pristup informacijama zahtijeva da tijela objavljuju svoje javne registre u obliku za ponovnu uporabu - provjeri koliko je skupova podataka zaista otvoreno!"
 auto-redirect: false
-external-url: http://dev.codeforcroatia.org/open-register-status/
+external-url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcO--VqufM3JJlvBoEE3IWw9FfzL5oVZm6wlPDChLccyb-wbJ0B47KQqCzqWAmRr6QLGeryZvK-HSN/pubhtml?gid=692368559&single=true"
 external-button-text: "Idi na stranicu kampanje"
 discourseTopicId: 22
 ---
@@ -34,4 +34,6 @@ III. b) Odgovaranje na zahtjeve za dopunu, slanje požurnica kada nema odgovora 
 
 III. c) Čekanje odgovora, ažuriranje statusa zadatka
 
-[Priprema, pozor, kreni!](http://dev.codeforcroatia.org/open-register-status/)
+[Priprema, pozor, kreni!](https://docs.google.com/spreadsheets/d/e/2PACX-1vRcO--VqufM3JJlvBoEE3IWw9FfzL5oVZm6wlPDChLccyb-wbJ0B47KQqCzqWAmRr6QLGeryZvK-HSN/pubhtml?gid=692368559&single=true)
+
+Možete poslati više zahtjeva! Upoznajte se detaljnije o otvaranju javnih podataka: imamo [detaljni vodič](https://imamopravoznati.org/help/beginners) koji će vam pomoći a tu je i [prijateljska zajednica na forumu](https://codeforcroatia.org) koja će rado razgovarati s vama i pomoći savjetom kada je potrebno. Možete pogledati koje skupove podatka drugi žele da se objave u otvorenom obliku na postu [Prioritetni skupovi podataka](https://codeforcroatia.org/t/prioritetni-skupovi-podataka-za-data-gov-hr/22).
