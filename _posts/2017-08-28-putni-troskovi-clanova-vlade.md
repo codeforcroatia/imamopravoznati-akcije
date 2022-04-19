@@ -33,4 +33,6 @@ III. korak → kliknite na „Pošalji“, odnosno “Potvrdi” nakon pregleda 
 IV. korak → potrebno je ulogirati se ili kreirati novi korisnički račun unošenjem imena, prezimena te e-mail adrese koju je potrebno potvrditi putem dobivenog linka.
 V. korak → čekanje odgovora.
 
-[Priprema, pozor, kreni!](http://putni-troskovi.codeforcroatia.org/)
+[Priprema, pozor, kreni!](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZaj_VY6v5afcffbYjI_467qKBfgUv868rcVwaAGTKuuRALOIItR2JMyuTW4paboxAnX6N4bX3VhOh/pubhtml?gid=829997552&single=true)
+
+Putem linka [putni-troskovi.codeforcroatia.org](http://putni-troskovi.codeforcroatia.org/) pogledajte vizualizaciju podataka koje smo do sada uz vašu pomoć prikupili.
