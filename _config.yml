@@ -1,7 +1,6 @@
 # Site
 name: "ImamoPravoZnati.org"
 title: "ImamoPravoZnati.org male akcije i kampanje"
-tagline: "Otvarajmo zajedno javne podatke nastale trošenjem našeg novca!"
 description: "ImamoPravoZnati.org akcije i kampanje"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -28,7 +27,7 @@ authors:
     name: Gong
     display_name: Gong
     avatar: 'assets/images/avatar.png'
-    email:
+    email: https://gong.hr/tko-smo/kontakt/
     web: https://gong.hr
     twitter: https://twitter.com/gong_hr
     description: "Gong je megafon demokracije: ometa korupciju, upozorava na političke ugroze i gradi ravnopravno građanstvo."
